@@ -1,3 +1,7 @@
-Twitch Chat Analysis
+Twitch Highlight Analysis
 
-Download twitch-chatlog with npm first. Follow these instructions: https://www.npmjs.com/package/twitch-chatlog
+Twitch clip bot for making highlight reels
+
+
+
+** Download twitch-chatlog with npm first. Follow these instructions: https://www.npmjs.com/package/twitch-chatlog **
